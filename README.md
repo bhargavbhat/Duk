@@ -6,7 +6,7 @@ Simple terminal based Rubber Duck application
 - History (based on `readline`) : User can recall previously entered text with `UpArrow` and `DownArrow` keys
 
 ### Commands
-- `exit` : Will exit the program, as will `quit`, `q` and `e`
+- `exit` : Will exit the program, as will `quit`, `q` and `x`
 - `help` : displays short help message
 
 ### Screenshot
